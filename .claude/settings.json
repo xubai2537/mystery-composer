@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(python -c ':*)",
-      "Read(//d D:/agents/**)",
-      "Bash(python -c \"import mystery_composer.nodes.writer; print\\('OK'\\)\")"
-    ]
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(conda create:*)",
-      "Bash(conda run:*)",
-      "Bash(python -c ':*)"
-    ]
-  }
-}
