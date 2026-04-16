@@ -201,7 +201,3 @@ mystery-composer/
 | `OPENAI_MODEL` | `gpt-4o-mini` | 所有 LLM 调用使用的模型 |
 
 ---
-
-## License
-
-MIT
